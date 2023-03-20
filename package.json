@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanattaori/techdot.git"
+    "url": "https://github.com/Akhil-Binu/Blockchain-Voting-System.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sanattaori/techdot/issues"
+    "url": "https://github.com/Akhil-Binu/Blockchain-Voting-System/issues"
   },
-  "homepage": "https://github.com/sanattaori/techdot#readme"
+  "homepage": "https://github.com/Akhil-Binu/Blockchain-Voting-System/blob/main/readme.md"
 }
